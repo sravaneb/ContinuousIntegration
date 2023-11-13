@@ -1,7 +1,16 @@
 .maincontainer{
-    background-color:green;
+    background-color:rgb(140, 212, 140);
 }
 
-.p{
-    color: rgb(245, 220, 224);
+img{
+    display: flex;
+    align-items: start;
+    justify-content: end;
+    height:50vh;
+}
+
+h1{
+    border: 20px ridge white;
+    text-align: center;
+    font-size:xx-large;
 }
